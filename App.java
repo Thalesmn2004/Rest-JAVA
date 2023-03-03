@@ -11,7 +11,7 @@ public class App {
 
         do
         {
-            System.out.println("> Bem vindo ao " + unico.getNome() + "! O que deseja fazer? ");
+            System.out.println("> Seja bem vindo ao " + unico.getNome() + "! O que deseja fazer? ");
             System.out.println(" [1] Reservar Mesa        | [2] Liberar Mesa ");
             System.out.println(" [3] Ver Mesa             | [4] Configurar Mesa ");
             System.out.println(" [5] Adicionar Cliente    | [6] Remover Cliente ");
